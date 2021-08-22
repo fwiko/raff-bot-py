@@ -1,0 +1,20 @@
+{
+  "bot": {
+    "token": "NzY1NjY3Mjg0MTU2Njc4MjI0.X4YJOQ.4sB5Gkr5o_JMkrUIA-tehDOmss4",
+    "prefix": "!",
+    "extensions": [
+      "utility",
+      "welcome",
+      "error_handler"
+    ],
+    "status": "discord.py test bot",
+    "embed_colour": 16568067
+  },
+  "welcome": {
+    "enabled": false,
+    "message_title": "Welcome to the Discord Server",
+    "message_description": "This is a description",
+    "message_image_url": "",
+    "send_dm": true
+  }
+}
